@@ -1,0 +1,6 @@
+[submodule "customs_addons_odoo_15"]
+	path = customs_addons_odoo_15
+	url = https://github.com/vasha54/customs_addons_odoo_15.git
+[submodule "customs_addons_odoo_12"]
+	path = customs_addons_odoo_12
+	url = https://github.com/vasha54/customs_addons_odoo_12.git
